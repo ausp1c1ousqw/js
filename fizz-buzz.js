@@ -12,19 +12,3 @@ for(let i = 1; i <= 100; i++) {
          console.log(i)
     }
 }
-// for(let i = 1; i <= 100; i++) {
-//     switch(i) {
-//         case'i % 3 == 0 && i % 5 == 0': 
-//             console.log('FizzBuzz')
-//             break
-//         case(i % 3 == 0): 
-//             console.log('FizzBuzz')
-//             break
-//         case(i % 5 == 0): 
-//             console.log('FizzBuzz')
-//             break
-//         default:
-//             console.log(i)
-//     }
-
-// }
