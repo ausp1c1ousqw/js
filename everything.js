@@ -1,5 +1,5 @@
 // function every(array, testFunc) {
-//   for(el of array) {
+//   for(let el of array) {
 //     if(!testFunc(el))
 //       return false 
 //   }
